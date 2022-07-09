@@ -1,0 +1,21 @@
+name: daml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - matplotlib
+  - numpy
+  - geojson
+  - pandas
+  - pydotplus
+  - scipy
+  - jupyter
+  - ipython
+  - ipykernel
+  - iminuit
+  - folium
+  - tensorflow
+  - scikit-learn
+  - seaborn
+  - spyder
+  
