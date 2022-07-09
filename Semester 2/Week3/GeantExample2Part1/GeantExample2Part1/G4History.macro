@@ -1,0 +1,6 @@
+/globalField/verbose 1
+/globalField/setValue 0 0 0 tesla
+/gun/particle e-
+/gun/energy 100 MeV
+/run/beamOn 0
+/run/beamOn 5000
